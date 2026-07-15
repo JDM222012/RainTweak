@@ -1,6 +1,7 @@
 #import "LoaderConfig.h"
 #import "Logger.h"
 #import "Utils.h"
+#import "Fonts.h"
 
 @implementation LoaderConfig
 
